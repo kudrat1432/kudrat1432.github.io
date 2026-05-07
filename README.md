@@ -21,7 +21,7 @@ I offer comprehensive training programs in data analysis, visualization, and dat
 *A glimpse of some of the projects I've been working on.*
 
 **Design and Analysis of Airbag Deployments and Responses.**
-![image](1 Airbag 1.png)
+![image](1 Airbag 1.jpg)
 
 To design model and analyze by varying different Variables for a particular model for airbags folding taken from a real model so that the airbags will not fail for a particular time – state response.
 

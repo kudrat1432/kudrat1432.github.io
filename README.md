@@ -60,7 +60,7 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
     </tr>
     <tr>
       <td>📍</td>
-      <td>PH, Canada</td>
+      <td>ON, Canada</td>
     </tr>
     <tr>
       <td>⬇️</td>

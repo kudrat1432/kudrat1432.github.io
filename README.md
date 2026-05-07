@@ -30,17 +30,17 @@ To design model and analyze by varying different Variables for a particular mode
 
 **Design and Assembly of Four-Cylinder Engine.**
 
-![image](2 anietie etuk data analytics sales project.jpg)
+![image](2 Four Cylinder Enginer.png)
 
-On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. 
+Designed the four-cylinder Engine with all its components with assembled final product and with including Drawings.
 
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 
 **Design and assembly of Steam Engine with Doubled Dimensions.**
 
-![image](3 anietie etuk data analytics agro project.jpg)
+![image](3 Steam Engine.png)
 
-Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
+Designed the framework and other components of the steam engine taking into account the Standard specifications and rules of design guidelines.
 
 <a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a>
 

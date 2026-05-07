@@ -23,12 +23,12 @@ I offer comprehensive training programs in data analysis, visualization, and dat
 **Design and Analysis of Airbag Deployments and Responses.**
 ![image](1 Airbag 1.png)
 
-The sinking of the Titanic is one of the most infamous shipwrecks in history.
+To design model and analyze by varying different Variables for a particular model for airbags folding taken from a real model so that the airbags will not fail for a particular time – state response.
 
 
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+**Design and Assembly of Four-Cylinder Engine.**
 
 ![image](2 anietie etuk data analytics sales project.jpg)
 
@@ -36,7 +36,7 @@ On April 15, 1912, during her maiden voyage, the widely considered “unsinkable
 
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+**Design and assembly of Steam Engine with Doubled Dimensions.**
 
 ![image](3 anietie etuk data analytics agro project.jpg)
 

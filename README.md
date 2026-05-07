@@ -20,7 +20,7 @@ I offer comprehensive training programs in data analysis, visualization, and dat
 
 *A glimpse of some of the projects I've been working on.*
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+**Design and Analysis of Airbag Deployments and Responses.**
 ![image](1 Airbag 1.png)
 
 The sinking of the Titanic is one of the most infamous shipwrecks in history.

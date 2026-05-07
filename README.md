@@ -1,7 +1,7 @@
 <!--Section 1: Introduce your self-->
 ## ABOUT ME
 
-Hello! I'm YUVRAJSINH THAKOR 🤓, a Mechanical Design Engineer with a passion for turning ideas into actionable designs and products. With over 4 years of hands-on experience in CAD modeling, product design, and manufacturing process optimization using Siemens NX, SolidWorks, and AutoCAD. Proven expertise in developing and releasing complex components and assemblies, including upper body structures, with a strong focus on quality assurance, cost reduction, and launch support in manufacturing environments. Excelled in HVAC product development at Brisk Mfg., where I led R&D initiatives, improved first-time quality by 20% through scrap reduction, and collaborated cross-functionally to deliver custom solutions under tight deadlines.
+Hello! I'm YUVRAJSINH THAKOR, a Mechanical Design Engineer with a passion for turning ideas into actionable designs and products. With over 4 years of hands-on experience in CAD modeling, product design, and manufacturing process optimization using Siemens NX, SolidWorks, and AutoCAD. Proven expertise in developing and releasing complex components and assemblies, including upper body structures, with a strong focus on quality assurance, cost reduction, and launch support in manufacturing environments. Excelled in HVAC product development at Brisk Mfg., where I led R&D initiatives, improved first-time quality by 20% through scrap reduction, and collaborated cross-functionally to deliver custom solutions under tight deadlines.
 
 <!--Mention your top/relevant skills here - core and soft skills-->
 ## WHAT I DO
